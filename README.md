@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Antonio 👋
 
-<!--
-**Mistereptil09/Mistereptil09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineering student (3rd year) at ESGI Paris, currently working in alternance.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** C, C#, Python, JavaScript/TypeScript, Rust (learning)  
+**Backend:** NestJS, ASP.NET Core, Flask, TypeORM  
+**Other:** QGIS, Docker, Linux, Git
+
+## Featured projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Robostrike](https://github.com/Shiranamur/Robostrike) | Turn-based multiplayer web game with real-time sync | C#, ASP.NET Core, SignalR, JWT |
+| [Secured-Messenger](https://github.com/Shiranamur/Secured-Messenger-App---Python) | E2E encrypted chat app — I implemented X3DH protocol | Python, Flask, JavaScript, LibSignal |
+| [OceanDepth](https://github.com/Mistereptil09/OceanDepth) | CLI roguelike with modular architecture and unit tests | C, CMake, CTest |
+
+## Currently
+
+- 🔧 Building QGIS plugins for construction plan analysis (work)
+- 🌱 Learning Rust for systems programming
+
+---
+
+📫 [LinkedIn](your-linkedin-url) • 📍 Paris
