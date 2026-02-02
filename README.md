@@ -1,11 +1,11 @@
-# Hi, I'm Antonio 👋
+# I'm Antonio !
 
-Software engineering student (3rd year) at ESGI Paris, currently working in alternance.
+Software engineering student (3rd year) at ESGI Paris, currently working in alternance at urban cooling solution.
 
 ## What I work with
 
-**Languages:** C, C#, Python, JavaScript/TypeScript, Rust (learning)  
-**Backend:** NestJS, ASP.NET Core, Flask, TypeORM  
+**Languages:** Python, C, C#, JavaScript/TypeScript, Rust (learning)  
+**Backend:** NestJS, ASP.NET Core, Flask, TypeORM, Strawberry
 **Other:** QGIS, Docker, Linux, Git
 
 ## Featured projects
