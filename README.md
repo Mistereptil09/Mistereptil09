@@ -5,7 +5,9 @@ Software engineering student (3rd year) at ESGI Paris, currently working in alte
 ## What I work with
 
 **Languages:** Python, C, C#, JavaScript/TypeScript, Rust (learning)  
+
 **Backend:** NestJS, ASP.NET Core, Flask, TypeORM, Strawberry
+
 **Other:** QGIS, Docker, Linux, Git
 
 ## Featured projects
