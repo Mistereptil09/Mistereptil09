@@ -25,4 +25,4 @@ Software engineering student (3rd year) at ESGI Paris, currently working in alte
 
 ---
 
-📫 [LinkedIn](your-linkedin-url) • 📍 Paris
+📫 [LinkedIn](https://www.linkedin.com/in/antonio-ciorba) • 📍 Paris
